@@ -27,3 +27,5 @@ Ensure you have the following dependencies installed:
 - **Libraries**:
   ```bash
   pip install numpy opencv-python opencv-contrib-python matplotlib scipy scikit-image
+
+  ## Camera Callibration using checkerboard images and dump all parameters into json file.
