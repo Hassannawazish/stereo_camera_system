@@ -28,4 +28,6 @@ Ensure you have the following dependencies installed:
   ```bash
   pip install numpy opencv-python opencv-contrib-python matplotlib scipy scikit-image
 
-  ## Camera Callibration using checkerboard images and dump all parameters into json file.
+## Camera Callibration using checkerboard images and dump all parameters into json file.
+camera calibration for both left and right cameras using a checkerboard pattern, computes the intrinsic parameters of each camera, and then performs stereo calibration to align the two cameras.
+
