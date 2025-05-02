@@ -40,5 +40,7 @@ Ensure you have the following dependencies installed:
     Essential Matrix (E): Describes the relation between corresponding points in the two images.
 
     Fundamental Matrix (F): Relates points between the stereo pair of images.
-  
+
+## Stereo Rectification and visualization of Epipolar lines.
+- Stereo Calibration parameters are used for stereo rectification and correct epipolar lines are drawn using OpenCV functions.
 
