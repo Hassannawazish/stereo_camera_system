@@ -1,6 +1,14 @@
 # Stereo Vision System
 
-![Stereo Vision System]
+The following statuses are of the default/development branch.
+
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_weather_station)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_weather_station&metric=alert_status&token=39aea2bcd9ae5532c0b1a839ac6287063f647b14)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_weather_station) 
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_weather_station&metric=bugs&token=39aea2bcd9ae5532c0b1a839ac6287063f647b14)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_weather_station) 
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_weather_station&metric=vulnerabilities&token=39aea2bcd9ae5532c0b1a839ac6287063f647b14)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_weather_station) 
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_weather_station&metric=code_smells&token=39aea2bcd9ae5532c0b1a839ac6287063f647b14)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_weather_station) 
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_weather_station&metric=duplicated_lines_density&token=39aea2bcd9ae5532c0b1a839ac6287063f647b14)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_weather_station)
 
 ## 📌 Project Overview
 
