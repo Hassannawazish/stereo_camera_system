@@ -8,7 +8,7 @@ The following statuses are of the default/development branch.
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system) 
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system) 
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system) 
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_weather_station&metric=duplicated_lines_density&token=39aea2bcd9ae5532c0b1a839ac6287063f647b14)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system)
+[![Duplicated Lines (%)](https://sonarcloud.io/component_measures?id=Hassannawazish_stereo_camera_system&metric=duplicated_lines_density&view=list)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system)
 
 ## 📌 Project Overview
 
