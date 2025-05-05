@@ -2,13 +2,36 @@
 
 The following statuses are of the default/development branch.
 
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/summary/overall?id=Hassannawazish_stereo_camera_system)
+<a href="https://sonarcloud.io/summary/overall?id=Hassannawazish_stereo_camera_system" 
+   title="Click to view SonarCloud project overview">
+    <img src="https://sonarcloud.io/images/project_badges/sonarcloud-black.svg" alt="SonarCloud badge">
+</a>
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system) 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system) 
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system) 
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system) 
-[![Duplicated Lines (%)](https://sonarcloud.io/component_measures?metric=duplicated_lines_density&id=Hassannawazish_stereo_camera_system)](https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system)
+<a href="https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system" 
+   title="Click to view Quality Gate Status">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status" alt="Quality Gate Status">
+</a>
+
+<a href="https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system" 
+   title="Click to view Bugs">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status" alt="Bugs">
+</a>
+
+<a href="https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system" 
+   title="Click to view Vulnerabilities">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status" alt="Vulnerabilities">
+</a>
+
+<a href="https://sonarcloud.io/summary/new_code?id=Hassannawazish_stereo_camera_system" 
+   title="Click to view Code Smells">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=Hassannawazish_stereo_camera_system&metric=alert_status" alt="Code Smells">
+</a>
+
+<a href="https://sonarcloud.io/component_measures?metric=duplicated_lines_density&id=Hassannawazish_stereo_camera_system" 
+   title="Click to view Duplicated Lines Report">
+    <img src="https://sonarcloud.io/component_measures?metric=duplicated_lines_density&id=Hassannawazish_stereo_camera_system" alt="Duplicated Lines">
+</a>
+
 
 ## 📌 Project Overview
 
