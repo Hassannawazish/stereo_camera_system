@@ -75,6 +75,13 @@ Ensure you have the following dependencies installed:
 
     Fundamental Matrix (F): Relates points between the stereo pair of images.
 
+
+  
+
 ## Stereo Rectification and visualization of Epipolar lines.
 - Stereo Calibration parameters are used for stereo rectification and correct epipolar lines are drawn using OpenCV functions.
+Here is the Stereo Rectification and Epipolar lines:
+
+![Epipolar lines](rectified_images/left_rectified_with_lines.png)
+
 
