@@ -78,13 +78,19 @@ Ensure you have the following dependencies installed:
 
   Here is the Actual data image used:
 
-![Epipolar lines](data/stereo/left.png)
+![Raw](data/stereo/left.png)
 
 ## Stereo Rectification and visualization of Epipolar lines.
 - Stereo Calibration parameters are used for stereo rectification and correct epipolar lines are drawn using OpenCV functions.
 Here is the Stereo Rectification and Epipolar lines:
 
 ![Epipolar lines](rectified_images/left_rectified_with_lines.png)
+
+Here is the Disparity map of image:
+
+![Disparity](disparity_map/disparity_filtered_wls.png)
+
+Here is the 
 
 
 
