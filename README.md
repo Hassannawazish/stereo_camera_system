@@ -90,7 +90,6 @@ Here is the Disparity map of image:
 
 ![Disparity](disparity_map/disparity_filtered_wls.png)
 
-Here is the 
-
-
+Here is the 3d point cloud.
+![3d](3dpc.gif)
 
